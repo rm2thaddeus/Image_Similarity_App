@@ -1,0 +1,6 @@
+faiss-cpu
+streamlit
+torch
+clip
+Pillow
+numpy
